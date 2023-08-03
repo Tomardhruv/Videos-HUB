@@ -1,3 +1,40 @@
+VIDEOS-HUB IS A VIDEO PLATFORM INSPIRED BY YOUTUBE,
+
+link- https://dhruv-media.netlify.app/
+
+Built using React Js and Material UI 5
+It is a responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!
+
+I used RapidAPI to fetch the data - 
+https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+
+SCREENSHOTS
+![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/53723eca-34a2-4c16-b122-dc05abd7782a)
+
+![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/fa72eb4f-225b-4399-929f-4872e06a1ea0)
+
+![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/431c62a8-59ab-4a58-b501-561269210532)
+
+![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/21897b8c-c4d6-4499-ae42-80ef216b03f9)
+
+![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/86ef1667-e698-448e-af6c-ba211431afd6)
+
+![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/e4a8cb41-987d-4756-b7b3-113b11666e96)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
