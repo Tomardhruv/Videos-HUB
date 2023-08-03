@@ -19,15 +19,6 @@ SCREENSHOTS
 
 ![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/86ef1667-e698-448e-af6c-ba211431afd6)
 
-![image](https://github.com/Tomardhruv/Videos-HUB/assets/104518093/e4a8cb41-987d-4756-b7b3-113b11666e96)
-
-
-
-
-
-
-
-
 
 
 
