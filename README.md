@@ -5,6 +5,8 @@ link- https://dhruv-media.netlify.app/
 Built using React Js and Material UI 5
 It is a responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!
 
+"VIDEOS-HUB is a captivating React JS application crafted with the power of Material UI 5. Experience the future of video consumption with this responsive platform, boasting breathtaking video sections, personalized categories, and dedicated channel pages. Immerse yourself in the ultimate viewing experience as VIDEOS-HUB brings your favorite content to life, allowing you to seamlessly play videos directly from the app. With its innovative design and seamless integration, VIDEOS-HUB redefines video streaming for the modern era."
+
 I used RapidAPI to fetch the data - 
 https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
